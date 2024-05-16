@@ -6,7 +6,7 @@
 
 ## Get in touch
 
-✋ I love to chat about frontend and backend development, React, devtools, Testing and more. Following are some of useful links you can find me there:
+✋ I love to chat about frontend and backend development, React and more. Following are some of useful links you can find me there:
 
 - **Linked In:** [linkedin.com/in/lecnguyen](https://www.linkedin.com/in/lecnguyen) (please send a note)
 - **Email:** <dev.nguyenle@gmail.com>
